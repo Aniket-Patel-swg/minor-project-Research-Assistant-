@@ -1,0 +1,17 @@
+2024-09-28T09:49:33.458Z [info]: Handler log: getting exployee details API
+2024-09-28T09:49:33.462Z [info]: Service Log: get employee details API
+2024-09-28T09:49:33.462Z [info]: Service client Log: getting employee details
+2024-09-28T09:49:33.463Z [info]: REST Client log: Get employee details API
+2024-09-28T09:49:36.351Z [info]: REST Client Log: success getting employee details
+2024-09-28T09:49:36.352Z [info]: Service client Log: successfully got employee details
+2024-09-28T09:49:36.353Z [info]: Service Log: succesfully got employee details
+2024-09-28T09:49:36.608Z [info]: Converter Log: Converting employee response data
+2024-09-28T09:49:36.609Z [info]: Service Log: successfully converted response
+2024-09-28T09:49:36.611Z [info]: Handler Log: Success getting employee details
+2024-09-28T10:52:57.933Z [info]: Handler log: getting exployee details API
+2024-09-28T10:52:57.936Z [info]: Service Log: get publications from Research Gate API
+2024-09-28T10:52:57.937Z [info]: Service client Log: getting titles and links from ResearchGate
+2024-09-28T10:52:57.937Z [info]: REST Client log: interacting with researchgate
+2024-09-28T10:53:01.128Z [error]: REST Client Log: error getting titles and links from ResearchGate
+2024-09-28T10:53:01.129Z [error]: Service Client Log: error getting titles and links from ResearchGate
+2024-09-28T10:53:01.130Z [error]: error getting publications from Research Gate API
